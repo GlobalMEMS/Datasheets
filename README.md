@@ -36,3 +36,5 @@
 ## Force Sensor
 
 ### [GMF102](https://github.com/GlobalMEMS/Datasheets/blob/master/GMF102%20digital%20force%20sensor%20datasheet%20Preliminary%20V0.11.pdf)
+
+### [GMF103](https://github.com/GlobalMEMS/Datasheets/blob/master/GMF103%20analog%20force%20sensor%20datasheet%20Preliminary%20V0.11.pdf)
