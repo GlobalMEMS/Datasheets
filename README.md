@@ -26,11 +26,11 @@
 
 ## Barometer
 
-### [GMP102](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102%20Datasheet%20Preliminary%20V0.5.pdf)
+### [GMP102](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102%20Datasheet%20Preliminary%20V0.6.pdf)
 
-### [GMP102 Chinese](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C%E5%88%9D%E7%A8%BFV0.50.pdf)
+### [GMP102 Chinese](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C%E5%88%9D%E7%A8%BFV0.60.pdf)
 
-### [GMP102A](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102A%20Datasheet%20Preliminary%20V0.2.pdf)
+### [GMP102A](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102A%20Datasheet%20Preliminary%20V0.3.pdf)
 
 
 ## Force Sensor
