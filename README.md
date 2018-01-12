@@ -20,7 +20,7 @@
 
 ### [GMC306](https://github.com/GlobalMEMS/Datasheets/blob/master/GMC306%20Datasheet%20V1.0.pdf)
 
-### [GMC307](https://github.com/GlobalMEMS/Datasheets/blob/master/GMC307%20Datasheet%20Preliminary%20V0.1.pdf)
+### [GMC306A](https://github.com/GlobalMEMS/Datasheets/blob/master/GMC306A%20Datasheet%20Preliminary%20V0.1.pdf)
 
 ## eCompass (g+m 6-Axis)
 
