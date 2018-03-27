@@ -36,7 +36,7 @@
 
 ### [GMP106](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP106%20Datasheet%20Preliminary%20V0.1.pdf)
 
-### [GMP109](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP109%20Datasheet%20Preliminary%20V0.1.pdf)
+### [GMP109](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP109%20Datasheet%20Preliminary%20V0.2.pdf)
 
 ## Force Sensor
 
