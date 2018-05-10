@@ -34,6 +34,8 @@
 
 ### [GMP102A](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102A%20Datasheet%20Preliminary%20V0.3.pdf)
 
+### [GMP105](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP105%20Datasheet%20preliminary_V0.1.pdf)
+
 ### [GMP106](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP106%20Datasheet%20Preliminary%20V0.1.pdf)
 
 ### [GMP109](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP109%20Datasheet%20Preliminary%20V0.2.pdf)
