@@ -59,3 +59,5 @@
 ### [GMP01-WC01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP01-WC01%20Datasheet%20Preliminary%20V0.4.pdf)
 
 ### [GMP11-WA01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP11-WA01%20Datasheet%20Preliminary%20V0.1.pdf)
+
+### [GMPB01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPB01%20Datasheet%20Preliminary%20V0.2.pdf)
