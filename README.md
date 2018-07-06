@@ -50,6 +50,8 @@
 
 ### [GMFPC101 Chinese](https://github.com/GlobalMEMS/Datasheets/blob/master/GMFPC101%20%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C%E5%88%9D%E7%A8%BF_V0.21.pdf)
 
+### [GMFPC102](https://github.com/GlobalMEMS/Datasheets/blob/master/GMFPC102%20Datasheet%20Preliminary%20V0.2.pdf)
+
 ## Silicon Pressure Sensor
 
 ### [GMP01-WA01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP01-WA01%20Datasheet%20Preliminary%20V0.1.pdf)
