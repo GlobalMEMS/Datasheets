@@ -1,5 +1,19 @@
 # Datasheets
 
+## Category
+
+[**Accelerometer**](#accelerometer)
+
+[**Magnetometer**](#magnetometer)
+
+[**eCompass**](#ecompass-gm-6-axis)
+
+[**Barometer**](#barometer)
+
+[**Force Sensor**](#force-sensor)
+
+[**Silicon Pressure Sensor**](#silicon-pressure-sensor)
+
 ## Accelerometer
 
 ### [GMA301](https://github.com/GlobalMEMS/Datasheets/blob/master/GMA301%20Datasheet%20V1.2.pdf)
@@ -62,4 +76,4 @@
 
 ### [GMP11-WA01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP11-WA01%20Datasheet%20Preliminary%20V0.1.pdf)
 
-### [GMPB01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPB01%20Datasheet%20Preliminary%20V0.2.pdf)
+### [GMPB01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPB01%20Datasheet%20Preliminary%20V0.21.pdf)
