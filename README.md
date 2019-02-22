@@ -40,6 +40,7 @@
 * [GMP102A](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102A%20Datasheet%20Preliminary%20V0.3.pdf) ![version](https://img.shields.io/badge/version-V0.3-yellow.svg)
 * [GMP105](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP105%20Datasheet%20preliminary_V0.2.pdf) ![version](https://img.shields.io/badge/version-V0.2-yellow.svg)
 * [GMP106](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP106%20Datasheet%20Preliminary%20V0.1.pdf) ![version](https://img.shields.io/badge/version-V0.1-yellow.svg)
+* [GMP107](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP107%20Datasheet%20Preliminary%20V0.1.pdf) ![version](https://img.shields.io/badge/version-V0.1-yellow.svg)
 * [GMP109](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP109%20Datasheet%20V1.1.pdf) ![version](https://img.shields.io/badge/version-V1.1-green.svg)
 
 ## Force Sensor
