@@ -56,7 +56,7 @@
 
 * [GMP01-WA01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP01-WA01%20Datasheet%20Preliminary%20V0.1.pdf) ![version](https://img.shields.io/badge/version-V0.1-yellow.svg)
 * [GMP01-WA02](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP01-WA02%20Datasheet%20Preliminary%20V0.1.pdf) ![version](https://img.shields.io/badge/version-V0.1-yellow.svg)
-* [GMP01-WB01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP01-WB01%20Datasheet%20Preliminary%20V0.3.pdf) ![version](https://img.shields.io/badge/version-V0.3-yellow.svg)
+* [GMP01-WB01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP01-WB01%20Datasheet%20Preliminary%20V0.4.pdf) ![version](https://img.shields.io/badge/version-V0.4-yellow.svg)
 * [GMP01-WC01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP01-WC01%20Datasheet%20Preliminary%20V0.4.pdf) ![version](https://img.shields.io/badge/version-V0.4-yellow.svg)
 * [GMP11-WA01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP11-WA01%20Datasheet%20Preliminary%20V0.1.pdf) ![version](https://img.shields.io/badge/version-V0.1-yellow.svg)
 * [GMPA01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPA01%20Datasheet%20V2.0.pdf) ![version](https://img.shields.io/badge/version-V2.0-green.svg)
