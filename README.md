@@ -35,8 +35,8 @@
 
 ## Barometer
 
-* [GMP102](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102%20Datasheet%20V1.2.pdf) ![version](https://img.shields.io/badge/version-V1.2-green.svg)
-* [GMP102 Chinese](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8CV1.2.pdf) ![version](https://img.shields.io/badge/version-V1.2-green.svg)
+* [GMP102](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102%20Datasheet%20V1.3.pdf) ![version](https://img.shields.io/badge/version-V1.3-green.svg)
+* [GMP102 Chinese](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8CV1.3.pdf) ![version](https://img.shields.io/badge/version-V1.3-green.svg)
 * [GMP102A](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102A%20Datasheet%20Preliminary%20V0.3.pdf) ![version](https://img.shields.io/badge/version-V0.3-yellow.svg)
 * [GMP102N](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102N%20Datasheet%20Preliminary%20V0.2.pdf) ![version](https://img.shields.io/badge/version-V0.2-yellow.svg)
 * [GMP102T](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP102T%20Datasheet%20Preliminary%20V0.1.pdf) ![version](https://img.shields.io/badge/version-V0.1-yellow.svg)
