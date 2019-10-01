@@ -64,3 +64,4 @@
 * [GMPA01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPA01%20Datasheet%20V2.0.pdf) ![version](https://img.shields.io/badge/version-V2.0-green.svg)
 * [GMPA02](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPA02%20Datasheet%20V1.0.pdf) ![version](https://img.shields.io/badge/version-V1.0-green.svg)
 * [GMPB01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPB01%20Datasheet%20Preliminary%20V0.21.pdf) ![version](https://img.shields.io/badge/version-V0.21-yellow.svg)
+* [GMPB02](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPB02%20Datasheet%20Preliminary%20V0.3.pdf) ![version](https://img.shields.io/badge/version-V0.3-yellow.svg)
