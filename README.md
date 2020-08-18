@@ -48,7 +48,7 @@
 ## Force Sensor
 
 * [GMFS01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMFS01%20Datasheet%20Preliminary%20V0.1.pdf) ![version](https://img.shields.io/badge/version-V0.1-yellow.svg)
-* [GMFS02](https://github.com/GlobalMEMS/Datasheets/blob/master/GMFS02%20Datasheet%20Preliminary%20V0.3.pdf) ![version](https://img.shields.io/badge/version-V0.3-yellow.svg)
+* [GMFS02](https://github.com/GlobalMEMS/Datasheets/blob/master/GMFS02%20Datasheet%20Preliminary%20V0.5.pdf) ![version](https://img.shields.io/badge/version-V0.5-yellow.svg)
 * [GMFPC101](https://github.com/GlobalMEMS/Datasheets/blob/master/GMFPC101%20Datasheet%20Preliminary%20V0.24.pdf) ![version](https://img.shields.io/badge/version-V0.24-yellow.svg)
 * [GMFPC101 Chinese](https://github.com/GlobalMEMS/Datasheets/blob/master/GMFPC101%20%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C%E5%88%9D%E7%A8%BF_V0.21.pdf) ![version](https://img.shields.io/badge/version-V0.21-yellow.svg)
 * [GMFPC102](https://github.com/GlobalMEMS/Datasheets/blob/master/GMFPC102%20Datasheet%20Preliminary%20V0.2.pdf) ![version](https://img.shields.io/badge/version-V0.2-yellow.svg)
