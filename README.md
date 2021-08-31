@@ -62,7 +62,7 @@
 * [GMP11-WA01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP11-WA01%20Datasheet%20Preliminary%20V0.1.pdf) ![version](https://img.shields.io/badge/version-V0.1-yellow.svg)
 * [GMP11-WB01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMP11-WB01%20Datasheet%20Preliminary%20V0.3.pdf) ![version](https://img.shields.io/badge/version-V0.3-yellow.svg)
 * [GMPA01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPA01%20Datasheet%20V2.1.pdf) ![version](https://img.shields.io/badge/version-V2.1-green.svg)
-* [GMPA02](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPA02%20Datasheet%20V1.0.pdf) ![version](https://img.shields.io/badge/version-V1.0-green.svg)
+* [GMPA02](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPA02%20Datasheet%20V1.2.pdf) ![version](https://img.shields.io/badge/version-V1.2-green.svg)
 * [GMPB01](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPB01%20Datasheet%20Preliminary%20V0.34.pdf) ![version](https://img.shields.io/badge/version-V0.34-yellow.svg)
 * [GMPB02](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPB02-SOP6%20Datasheet%20Preliminary%20V0.5.pdf) ![version](https://img.shields.io/badge/version-V0.5-yellow.svg)
 * [GMPD02](https://github.com/GlobalMEMS/Datasheets/blob/master/GMPD02%20Pressure%20sensor%20datasheet%20Preliminary%20V0.1.pdf) ![version](https://img.shields.io/badge/version-V0.1-yellow.svg)
