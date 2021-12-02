@@ -27,7 +27,7 @@
 
 * [GMC303](https://github.com/GlobalMEMS/Datasheets/blob/master/GMC303%20Datasheet%20V1.3.pdf) ![version](https://img.shields.io/badge/version-V1.3-green.svg)
 * [GMC306](https://github.com/GlobalMEMS/Datasheets/blob/master/GMC306%20Datasheet%20V1.0.pdf) ![version](https://img.shields.io/badge/version-V1.0-green.svg)
-* [GMC306A](https://github.com/GlobalMEMS/Datasheets/blob/master/GMC306A%20Datasheet%20Preliminary%20V0.1.pdf) ![version](https://img.shields.io/badge/version-V0.1-yellow.svg)
+* [CMC306A](https://github.com/GlobalMEMS/Datasheets/blob/master/CMC306A%20Datasheet%20V1.1.pdf) ![version](https://img.shields.io/badge/version-V1.1-green.svg)
 
 ## eCompass (g+m 6-Axis)
 
